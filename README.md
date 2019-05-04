@@ -10,13 +10,13 @@
 
 ### [一、初识 C++](https://github.com/ShannonChenCHN/ACppTour/issues/1)
 
-- 1.C++ 简介
-- 2.为什么要学 C++
-- 3.学习 C++ 的方法和资料
-- 4.环境配置
-- 5.Hello World
-- 6.Coding Style Guide
-- 7.C++11 的新特性
+- [1.C++ 简介](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488189604)
+- [2.为什么要学 C++](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488189747)
+- [3.学习 C++ 的方法和资料](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488189845)
+- [4.环境配置](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488190594)
+- [5.Hello World](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488190664)
+- [6.Coding Style Guide](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488204872)
+- [7.C++11 的新特性](https://github.com/ShannonChenCHN/ACppTour/issues/1#issuecomment-488550262)
 
 ### 二、C++ 基础
 
@@ -118,6 +118,7 @@
 - 2.用于大型程序的工具
   - 异常处理
   - 命名空间
+    - using 关键字声明
   - 多重继承与虚继承
 - 3.特殊工具与技术
   - 控制内存分配
