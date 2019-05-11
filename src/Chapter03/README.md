@@ -1,0 +1,22 @@
+第 3 章知识点
+
+- `typedef type name`
+- vector 类型，定义在 <vector> 中
+  - `vector<T>::size_type`
+  - `v.begin()`
+  - `v.end()`
+  - `vector<T> v;`
+  - `v.push_back(e)`
+  - `v[i]`
+  - `v.size()`
+- 其他库工具
+  - <iostream>
+    - `while(cin>>x) {}`
+  - <ios>
+    - streamsize
+    - cout.precision(n)
+  - <iomanip>
+    - setpresision(n)
+  - <algorithm>
+    - sort
+    - max
