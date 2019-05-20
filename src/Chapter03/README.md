@@ -1,4 +1,4 @@
-第 3 章知识点
+# 第 3 章 typedef、 vector 类型
 
 - `typedef type name`
 - vector 类型，定义在 <vector> 中
